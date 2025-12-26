@@ -1,0 +1,13 @@
+.nav-element {
+    display: flex;
+    position: relative, absolute, fixed, color: chocolate;
+    background-color: white;
+    color: rgb(220, 160, 20); 
+    border-radius: 30px;
+    list-style-position: outside ;
+}
+:hover .nav-element {
+ background-color: rgb(255, 255, 255);
+ color: rgb(220, 160, 20); 
+ 
+}
